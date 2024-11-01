@@ -1,0 +1,1 @@
+Ejercicio de una pequeña interfaz para gestionar personas, igual que en el ejercicioE pero ademas de agregar, modificar y eliminar filas.Se filtra por nombre y se puede importar y exportar.
